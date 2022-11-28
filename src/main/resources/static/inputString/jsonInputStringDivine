@@ -1,0 +1,27 @@
+{
+  "query": {
+    "status": {
+      "option": "online"
+    },
+    "have": [
+      "chaos"
+    ],
+    "want": [
+      "gilded-breach-scarab",
+      "gilded-cartography-scarab",
+      "gilded-bestiary-scarab",
+      "gilded-shaper-scarab",
+      "gilded-elder-scarab",
+      "gilded-sulphite-scarab",
+      "gilded-harbinger-scarab",
+      "gilded-torment-scarab",
+      "gilded-metamorph-scarab",
+      "gilded-blight-scarab"
+    ],
+    "minimum": 50
+  },
+  "sort": {
+    "have": "asc"
+  },
+  "engine": "new"
+}
